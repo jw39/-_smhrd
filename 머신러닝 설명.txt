@@ -1,0 +1,12 @@
+3:4
+지:세
+
+오렌지3 다운로드
+엥간 NEXT -> INSTALL, 바탕화면에 CSV 파일 놓기
+
+info 내용
+instances-> 행의 갯수
+no missing values -> 결측치가 없다
+data has no target variable. 가중치가 들어온 속성값이 없다? 정답이 없다..?
+feature -> 문제 데이터? 학습용 데이터?
+meta -> skip과 비슷하지만 데이터 테이블에서 확인은 가능함
